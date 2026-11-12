@@ -1,0 +1,12 @@
+# Local virtual environment
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Editor / OS noise
+.DS_Store
+.idea/
+.vscode/
